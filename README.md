@@ -1,4 +1,4 @@
-# 📚 Class Projects
+# 🤓 Class Projects
 
 This repository collects selected coursework projects from my studies in Finance and Data Science at Northeastern University. Projects demonstrate skills in data analysis, predictive modeling, and data visualization.
 
