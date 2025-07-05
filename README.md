@@ -7,11 +7,11 @@ This repository collects selected coursework projects from my studies in Finance
 ## 📌 Featured Projects
 
 ### 📝 [Adderall XR vs. IR Sentiment Analysis](DS2000%20(Fall%2024)/AdderallSentiment.ipynb)
-- **Course:** DS2000 (Fall 2024)
+- **Course:** DS2000 (Programming with Data)
 - **Summary:** Analyzed public sentiment on social media comparing Adderall XR and IR formulations. Applied text mining and NLP techniques.
 
 ### 🩺 [Diabetes Predictive Model](DS2000%20(Fall%2024)/DS3000.Practicum.2.ipynb)
-- **Course:** DS3000 Practicum
+- **Course:** DS3000 (Foundations of Data Science)
 - **Summary:** Built a logistic regression model to predict diabetes risk, performing data cleaning, feature engineering, and evaluation.
 
 ---
